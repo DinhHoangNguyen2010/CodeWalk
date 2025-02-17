@@ -1,2 +1,0 @@
-# CodeWalk
-Code by myself
